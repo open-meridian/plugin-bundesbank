@@ -1,0 +1,4 @@
+{
+  "said": "The Deutsche Bundesbank's real response, recorded by meridian-bundesbank's authors on 2026-11-19: its SDMX web service's answer (SDMX-CSV, detail=dataonly) for the daily term structure of interest rates on listed Federal securities (method by Svensson), the 60 residual maturities of 0.5 to 30 years (BBSIS.D.I.ZST.ZI.EUR.S1311.B.A604.*.R.A.A._Z._Z.A), from 3 August to 19 November 2026, the body gzipped. Reused under the ESCB's conditions for the reuse of its statistics: free reuse, commercial or not, quoting the source, the statistics unmodified (https://www.bundesbank.de/en/homepage/user-information/terms-of-use-regarding-the-reuse-of-escb-statistics-621188). Source: Deutsche Bundesbank. Sample data answers each request from it, and the tests read it.",
+  "zero": {"file": "bbsis-zero-20260803-20261119.csv.gz", "date": "Thu, 19 Nov 2026 16:33:48 GMT", "last_day": "2026-11-19"}
+}
