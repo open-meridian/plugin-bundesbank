@@ -1,0 +1,11 @@
+meridian-bundesbank
+Copyright 2026 Societal Lab Inc.
+
+Licensed under the Apache License, Version 2.0. See LICENSE.
+
+The data this plugin reads are the Deutsche Bundesbank's, published through
+its SDMX web service: the term structure of interest rates on listed
+Federal securities (method by Svensson). Source: Deutsche Bundesbank. They
+are reused under the ESCB's conditions for the reuse of its statistics,
+unmodified.
+This project is not affiliated with or endorsed by the Deutsche Bundesbank.
